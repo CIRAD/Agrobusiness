@@ -1,0 +1,1916 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>2_FEV_TOTAL</name>
+		<Placemark>
+			<name>SENEGINDIA</name>
+			<description><![CDATA[description: <br>entreprise: SENEGINDIA<br>ha: 405<br>Cultures: maraichage<br>id_champs: SENEGINDIA_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENEGINDIA</value>
+				</Data>
+				<Data name='ha'>
+					<value>405</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENEGINDIA_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.798445,16.174715,0.0 -15.787986000000002,16.172982,0.0 -15.783225000000002,16.172209,0.0 -15.780063999999996,16.171768,0.0 -15.778611999999999,16.1795,0.0 -15.786105000000003,16.181328,0.0 -15.784626000000001,16.19074,0.0 -15.783809999999999,16.194238,0.0 -15.783967999999998,16.198369,0.0 -15.787413,16.199846,0.0 -15.789512000000002,16.200509,0.0 -15.792427000000002,16.200611999999996,0.0 -15.796849,16.185161,0.0 -15.798445,16.174715,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENEGINDIA<br>ha: 223<br>Cultures: maraichage<br>id_champs: SENEGINDIA_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENEGINDIA</value>
+				</Data>
+				<Data name='ha'>
+					<value>223</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENEGINDIA_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.803672000000002,16.174770999999996,0.0 -15.803809000000001,16.170172,0.0 -15.803651,16.169532000000004,0.0 -15.803376,16.16908,0.0 -15.802437999999997,16.168594,0.0 -15.800524000000001,16.167847,0.0 -15.797214000000002,16.169217,0.0 -15.793679,16.162935999999995,0.0 -15.789307000000003,16.161859,0.0 -15.781777000000002,16.161057,0.0 -15.780904000000001,16.167204,0.0 -15.780762,16.170823,0.0 -15.790011,16.172297,0.0 -15.793055000000004,16.172775,0.0 -15.798518999999999,16.173697,0.0 -15.800198,16.173991999999995,0.0 -15.802617999999999,16.174549000000003,0.0 -15.803672000000002,16.174770999999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Jhon<br>ha: 225<br>Cultures: friche<br>id_champs: Jhon_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Jhon</value>
+				</Data>
+				<Data name='ha'>
+					<value>225</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>friche</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Jhon_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.799297,16.206656,0.0 -15.787454999999998,16.201646,0.0 -15.780267999999998,16.215728,0.0 -15.788917000000003,16.219225,0.0 -15.790777,16.219965,0.0 -15.792377,16.217597,0.0 -15.793977000000002,16.215049000000004,0.0 -15.795668000000001,16.212411000000003,0.0 -15.799297,16.206656,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Ferlo Gomme<br>ha: 60<br>Cultures: maraichage<br>id_champs: FerloGomme_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Ferlo Gomme</value>
+				</Data>
+				<Data name='ha'>
+					<value>60</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>FerloGomme_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.760407000000002,16.279782,0.0 -15.757701000000003,16.283800000000003,0.0 -15.761017,16.285014,0.0 -15.765808,16.286882,0.0 -15.766953999999997,16.28728,0.0 -15.770280999999999,16.288940000000004,0.0 -15.772433000000005,16.286781,0.0 -15.760407000000002,16.279782,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Temey Agro<br>ha: 39<br>Cultures: maraichage<br>id_champs: Temey_Agro_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Temey Agro</value>
+				</Data>
+				<Data name='ha'>
+					<value>39</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Temey_Agro_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.761786,16.323108,0.0 -15.759459000000001,16.321134,0.0 -15.756440000000003,16.320613,0.0 -15.755342,16.321666000000004,0.0 -15.754919000000001,16.322217,0.0 -15.753551000000002,16.323984,0.0 -15.755478,16.325360000000003,0.0 -15.758044,16.327109000000004,0.0 -15.759663,16.326783,0.0 -15.760638,16.325163,0.0 -15.761786,16.323108,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Temey Agro<br>ha: 82<br>Cultures: maraichage<br>id_champs: Temey_Agro_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Temey Agro</value>
+				</Data>
+				<Data name='ha'>
+					<value>82</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Temey_Agro_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.766012,16.319444,0.0 -15.763402000000003,16.318811,0.0 -15.763352999999997,16.318541,0.0 -15.762691,16.318317999999998,0.0 -15.762826,16.317354,0.0 -15.765034999999997,16.318318,0.0 -15.765605000000003,16.317482999999996,0.0 -15.764951,16.316942,0.0 -15.764377000000003,16.316699,0.0 -15.764535999999996,16.31587,0.0 -15.763295,16.315645000000004,0.0 -15.761002000000001,16.315148,0.0 -15.758470000000003,16.314568,0.0 -15.754980999999997,16.313759,0.0 -15.754583000000002,16.314814999999996,0.0 -15.753809999999998,16.317039,0.0 -15.75313,16.318882,0.0 -15.754533999999998,16.319758,0.0 -15.756526,16.320477999999998,0.0 -15.757252,16.318859,0.0 -15.757932,16.319241,0.0 -15.758378,16.319511,0.0 -15.759571999999999,16.320994999999996,0.0 -15.760928000000002,16.322074,0.0 -15.761887999999999,16.322703,0.0 -15.762496999999996,16.323063,0.0 -15.763150000000003,16.323376,0.0 -15.763336,16.323599999999995,0.0 -15.763547,16.323757,0.0 -15.763827999999997,16.323735,0.0 -15.764412000000002,16.322724,0.0 -15.764787,16.322095,0.0 -15.765045000000002,16.321579,0.0 -15.766301,16.320163,0.0 -15.766012,16.319444,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 1283<br>Cultures: Canne<br>id_champs: CSS_6]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>1283</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_6</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.847645000000002,16.450403,0.0 -15.845001000000005,16.449166000000005,0.0 -15.838258999999999,16.456280000000003,0.0 -15.823014000000002,16.466355,0.0 -15.805666,16.466622,0.0 -15.796156,16.461715000000005,0.0 -15.789016,16.464801,0.0 -15.777606999999998,16.463873,0.0 -15.777325000000003,16.466781000000005,0.0 -15.778488,16.468117,0.0 -15.781750000000002,16.471206000000002,0.0 -15.787984,16.477257,0.0 -15.792538000000004,16.481649,0.0 -15.795777,16.484904,0.0 -15.797491000000003,16.486497,0.0 -15.801625000000001,16.486837,0.0 -15.803354000000002,16.486444,0.0 -15.807653,16.483673,0.0 -15.809653,16.483664,0.0 -15.811660000000002,16.481286,0.0 -15.809333000000006,16.477908,0.0 -15.814863999999996,16.474864,0.0 -15.824871,16.478907000000003,0.0 -15.828096,16.477766,0.0 -15.836591999999994,16.4695,0.0 -15.847458,16.4661,0.0 -15.859027000000001,16.457378,0.0 -15.847645000000002,16.450403,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SEDIMA<br>ha: 11<br>Cultures: <br>id_champs: SEDIMA_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SEDIMA</value>
+				</Data>
+				<Data name='ha'>
+					<value>11</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SEDIMA_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.237206,14.760463,0.0 -17.232641000000005,14.759551,0.0 -17.231627,14.761194,0.0 -17.232637000000004,14.761441,0.0 -17.237033000000004,14.762308000000004,0.0 -17.237206,14.760463,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SEDIMA<br>ha: 2<br>Cultures: <br>id_champs: SEDIMA_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SEDIMA</value>
+				</Data>
+				<Data name='ha'>
+					<value>2</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SEDIMA_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.230881,14.758495000000002,0.0 -17.230478,14.758964999999998,0.0 -17.230384999999995,14.759316,0.0 -17.232165,14.759836000000002,0.0 -17.232565000000005,14.759109000000006,0.0 -17.230881,14.758495000000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: GDS<br>ha: 306<br>Cultures: <br>id_champs: GDS_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>GDS</value>
+				</Data>
+				<Data name='ha'>
+					<value>306</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>GDS_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.350608,16.069545,0.0 -16.348659,16.072469,0.0 -16.347485,16.075154,0.0 -16.346923000000004,16.075906999999997,0.0 -16.345352,16.07767,0.0 -16.343561000000005,16.079111,0.0 -16.341055000000004,16.081541,0.0 -16.343292000000005,16.082195,0.0 -16.344853,16.082574,0.0 -16.349101,16.083617,0.0 -16.348981999999996,16.08604,0.0 -16.349208,16.086458,0.0 -16.349993999999995,16.087449,0.0 -16.351678000000003,16.089129000000003,0.0 -16.35517,16.086105000000003,0.0 -16.352374,16.082049,0.0 -16.354479,16.08053,0.0 -16.354772,16.079400000000003,0.0 -16.35617,16.074344,0.0 -16.357979,16.073074,0.0 -16.357521000000002,16.069336,0.0 -16.358163,16.069332000000003,0.0 -16.358674,16.072748,0.0 -16.362872,16.073517000000002,0.0 -16.365791000000005,16.068067,0.0 -16.363566,16.066975,0.0 -16.368482,16.060916,0.0 -16.365238,16.058262,0.0 -16.363996,16.059889,0.0 -16.361797,16.062474,0.0 -16.358039999999995,16.066936999999996,0.0 -16.357929,16.067178,0.0 -16.358119999999996,16.069167,0.0 -16.357349,16.069209,0.0 -16.356464000000003,16.062883000000003,0.0 -16.353429,16.065359999999995,0.0 -16.351723,16.067722,0.0 -16.350608,16.069545,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SEDIMA<br>ha: 14<br>Cultures: <br>id_champs: SEDIMA_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SEDIMA</value>
+				</Data>
+				<Data name='ha'>
+					<value>14</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SEDIMA_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.232169,14.767324000000004,0.0 -17.229208,14.766140000000002,0.0 -17.229091000000004,14.766374000000004,0.0 -17.228138,14.769345999999997,0.0 -17.23117,14.770459999999996,0.0 -17.231926,14.769356000000002,0.0 -17.232348,14.768372000000001,0.0 -17.232791,14.767888999999998,0.0 -17.232169,14.767324000000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 1366<br>Cultures: <br>id_champs: SENHUILE_AGR_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>1366</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_AGR_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.910095,16.298021999999996,0.0 -15.906602999999999,16.306509,0.0 -15.909286,16.308764000000004,0.0 -15.913723000000001,16.300189,0.0 -15.916944999999998,16.301647,0.0 -15.917385999999997,16.30172,0.0 -15.920997,16.304198,0.0 -15.933763000000003,16.309529999999995,0.0 -15.940413,16.301,0.0 -15.949802999999998,16.303157,0.0 -15.952599000000001,16.297902,0.0 -15.946148,16.294558,0.0 -15.931583000000002,16.288591000000004,0.0 -15.938877,16.271927,0.0 -15.933373,16.269229,0.0 -15.936422000000004,16.263107,0.0 -15.946373,16.243101,0.0 -15.933892000000004,16.239156,0.0 -15.917079999999999,16.275419,0.0 -15.927993999999998,16.28001,0.0 -15.920443,16.294739000000003,0.0 -15.913448999999998,16.291641,0.0 -15.910095,16.298021999999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 178<br>Cultures: <br>id_champs: SENHUILE_AGR_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>178</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_AGR_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.90413,16.329401,0.0 -15.894040000000002,16.324922,0.0 -15.890678000000001,16.331606,0.0 -15.888914,16.330672999999997,0.0 -15.886419000000002,16.335861000000005,0.0 -15.889213,16.337515000000003,0.0 -15.889493,16.339531,0.0 -15.895147000000003,16.340117999999997,0.0 -15.895925,16.337616,0.0 -15.899809,16.337074,0.0 -15.90413,16.329401,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 1474<br>Cultures: <br>id_champs: SENHUILE_AGR_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>1474</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_AGR_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.922444999999998,16.357829999999996,0.0 -15.907485000000001,16.367136,0.0 -15.89965,16.367361000000002,0.0 -15.897781000000002,16.364622,0.0 -15.876492999999998,16.376869999999997,0.0 -15.887968,16.389381,0.0 -15.900389000000002,16.382505,0.0 -15.902517,16.385952,0.0 -15.924723999999998,16.371862,0.0 -15.960323,16.347486,0.0 -15.955893000000003,16.337036,0.0 -15.940108000000002,16.344902,0.0 -15.927123,16.354178999999995,0.0 -15.922444999999998,16.357829999999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOLDIVE<br>ha: 20<br>Cultures: Melon<br>id_champs: SOLDIVE_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOLDIVE</value>
+				</Data>
+				<Data name='ha'>
+					<value>20</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Melon</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOLDIVE_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.318884,16.179508,0.0 -16.316578,16.177917,0.0 -16.314623999999995,16.180616999999998,0.0 -16.313007,16.183036,0.0 -16.315176,16.184574,0.0 -16.318884,16.179508,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: soleil_vert<br>ha: 393<br>Cultures: <br>id_champs: soleil_vert_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>soleil_vert</value>
+				</Data>
+				<Data name='ha'>
+					<value>393</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>soleil_vert_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.151604,14.778341,0.0 -17.152257,14.779344000000002,0.0 -17.149993,14.780410999999999,0.0 -17.146621,14.781980000000004,0.0 -17.140132,14.782609,0.0 -17.140071,14.785628000000003,0.0 -17.133828000000005,14.786634000000001,0.0 -17.134089,14.791736999999998,0.0 -17.129466,14.793437000000003,0.0 -17.128163,14.795138000000003,0.0 -17.132720999999997,14.7976,0.0 -17.134088,14.800438,0.0 -17.139557,14.798412999999998,0.0 -17.140207999999998,14.797341000000003,0.0 -17.145413,14.795323000000003,0.0 -17.150347,14.792232000000002,0.0 -17.155544,14.790972,0.0 -17.154556999999997,14.787699999999997,0.0 -17.160190000000004,14.783905000000003,0.0 -17.159413,14.782859999999998,0.0 -17.154837000000004,14.776523999999998,0.0 -17.151604,14.778341,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: soleil_vert<br>ha: 820<br>Cultures: <br>id_champs: soleil_vert_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>soleil_vert</value>
+				</Data>
+				<Data name='ha'>
+					<value>820</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>soleil_vert_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.170005,14.759354,0.0 -17.166371,14.759729000000002,0.0 -17.167085,14.762928999999998,0.0 -17.161048,14.766128000000002,0.0 -17.158415,14.766061000000004,0.0 -17.158603,14.76753,0.0 -17.158872000000002,14.768620000000002,0.0 -17.161771,14.769407,0.0 -17.162861,14.774348999999999,0.0 -17.170583,14.775043000000002,0.0 -17.170582,14.776552000000002,0.0 -17.204455,14.763334,0.0 -17.203151,14.760881,0.0 -17.206347,14.759563,0.0 -17.204513,14.755223000000003,0.0 -17.206793,14.754469000000004,0.0 -17.201364,14.748065000000004,0.0 -17.170005,14.759354,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: domaine guiniabor 2<br>ha: 119<br>Cultures: <br>id_champs: domaine guiniabor 2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>domaine guiniabor 2</value>
+				</Data>
+				<Data name='ha'>
+					<value>119</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>domaine guiniabor 2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.071029,14.567472,0.0 -17.065704,14.574086,0.0 -17.065546,14.574512,0.0 -17.065378,14.574809000000002,0.0 -17.06518,14.575150999999998,0.0 -17.067852,14.576628,0.0 -17.06994,14.577864000000002,0.0 -17.075303,14.580453,0.0 -17.079162,14.572044,0.0 -17.071029,14.567472,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOCAS (SCL)<br>ha: 68<br>Cultures: Mais<br>id_champs: SOCAS_3 (SCL)]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOCAS (SCL)</value>
+				</Data>
+				<Data name='ha'>
+					<value>68</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mais</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOCAS_3 (SCL)</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.296360000000004,16.218715,0.0 -16.295781999999996,16.219572,0.0 -16.294471000000005,16.220741,0.0 -16.293796,16.221598,0.0 -16.293721999999995,16.221973000000002,0.0 -16.293616,16.222522999999995,0.0 -16.293618000000002,16.222961999999995,0.0 -16.293713,16.223384,0.0 -16.293835000000005,16.223845000000004,0.0 -16.294018,16.224242,0.0 -16.294152000000004,16.224496000000002,0.0 -16.294384,16.224758,0.0 -16.294706999999995,16.225028,0.0 -16.295122,16.225352000000004,0.0 -16.295742000000004,16.225723,0.0 -16.296295999999998,16.225911,0.0 -16.296781,16.226045,0.0 -16.297300000000003,16.226102000000004,0.0 -16.297778000000005,16.226102000000004,0.0 -16.298234,16.225945,0.0 -16.298638000000004,16.225786,0.0 -16.299,16.22562,0.0 -16.299437,16.22532,0.0 -16.299701,16.224956,0.0 -16.299999,16.224553,0.0 -16.300206,16.224198,0.0 -16.300396,16.223865,0.0 -16.300576,16.223310000000005,0.0 -16.300742,16.222811,0.0 -16.300889,16.222359,0.0 -16.30106,16.221822,0.0 -16.301163,16.221625,0.0 -16.301620000000003,16.220851,0.0 -16.302286,16.219795,0.0 -16.303049,16.218506999999995,0.0 -16.302805,16.218271,0.0 -16.302441,16.217925,0.0 -16.301947,16.217553,0.0 -16.301115000000003,16.216862,0.0 -16.300255,16.216267,0.0 -16.299270999999997,16.215488,0.0 -16.296360000000004,16.218715,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 7381<br>Cultures: Canne<br>id_champs: CSS_5]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>7381</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_5</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.782067439357183,16.428162260230714,0.0 -15.781064,16.42853,0.0 -15.776957000000001,16.430347999999995,0.0 -15.771367,16.435493000000005,0.0 -15.757995000000001,16.438017999999996,0.0 -15.754218,16.446172,0.0 -15.74563,16.446755,0.0 -15.741463999999997,16.455797,0.0 -15.740335000000002,16.460149000000005,0.0 -15.733102000000002,16.465886,0.0 -15.729471999999996,16.465346,0.0 -15.737254000000004,16.453049,0.0 -15.74581,16.443991,0.0 -15.748099999999999,16.42741,0.0 -15.756736,16.418423,0.0 -15.762432,16.412598,0.0 -15.758078000000001,16.419748999999996,0.0 -15.751116000000001,16.426863,0.0 -15.757352999999997,16.436981,0.0 -15.763736000000002,16.435833,0.0 -15.770184999999998,16.435082,0.0 -15.776469000000002,16.429863000000005,0.0 -15.779084,16.428236,0.0 -15.781802000000003,16.427293,0.0 -15.782067439357187,16.427198656820867,0.0 -15.786658,16.425567,0.0 -15.783157000000001,16.419807,0.0 -15.782067439357187,16.419972693991003,0.0 -15.781033000000003,16.42013,0.0 -15.775490999999997,16.410985,0.0 -15.777919999999998,16.409586,0.0 -15.780171,16.408185999999997,0.0 -15.78206743935718,16.40782812020191,0.0 -15.783361,16.407584000000003,0.0 -15.791612999999998,16.40011,0.0 -15.798233999999999,16.406718,0.0 -15.796513000000001,16.408123000000003,0.0 -15.794072000000002,16.411108,0.0 -15.792101,16.414324,0.0 -15.795790999999998,16.418475,0.0 -15.796911,16.418708,0.0 -15.800532,16.41562,0.0 -15.803088,16.412635,0.0 -15.805780999999996,16.407672,0.0 -15.804964,16.406196,0.0 -15.806572000000001,16.404168,0.0 -15.806342999999998,16.402759,0.0 -15.805120999999998,16.400260999999997,0.0 -15.808446000000004,16.397683000000004,0.0 -15.809514999999996,16.39576,0.0 -15.809018,16.3918,0.0 -15.806436000000003,16.389689000000004,0.0 -15.799412,16.386736,0.0 -15.793998000000002,16.384207999999997,0.0 -15.793707,16.383867,0.0 -15.786525000000001,16.380591,0.0 -15.782067439357183,16.377167337462094,0.0 -15.777103,16.370172,0.0 -15.775619,16.363366,0.0 -15.773109999999999,16.364141,0.0 -15.772940000000002,16.364623,0.0 -15.773314999999998,16.36351,0.0 -15.774229,16.359667,0.0 -15.740282000000006,16.380758,0.0 -15.752226,16.39728,0.0 -15.746634000000002,16.395493,0.0 -15.743579000000002,16.397205,0.0 -15.741611,16.400211,0.0 -15.740858,16.403971,0.0 -15.739819000000004,16.407309,0.0 -15.732686999999999,16.408098999999996,0.0 -15.729806,16.405568,0.0 -15.727042,16.410334000000002,0.0 -15.727399999999998,16.415593,0.0 -15.726408,16.420233,0.0 -15.730949999999998,16.426218999999996,0.0 -15.730122,16.433052,0.0 -15.721657000000002,16.437736,0.0 -15.717124999999998,16.441052000000003,0.0 -15.710415999999997,16.441043,0.0 -15.705252000000003,16.445687,0.0 -15.704829,16.449323,0.0 -15.706617,16.453867999999996,0.0 -15.70472,16.456794,0.0 -15.697029000000002,16.46487,0.0 -15.699354999999997,16.466189999999997,0.0 -15.702504,16.466184,0.0 -15.708210999999995,16.467505000000003,0.0 -15.713985000000003,16.462053,0.0 -15.713244999999999,16.464979,0.0 -15.721409000000003,16.471219,0.0 -15.724881000000002,16.473472,0.0 -15.736197999999998,16.476336,0.0 -15.744533000000002,16.474696,0.0 -15.756966000000004,16.468537,0.0 -15.761654000000004,16.466615000000004,0.0 -15.770029,16.462898,0.0 -15.777473000000002,16.459321,0.0 -15.782067439357183,16.458899088431366,0.0 -15.787109000000001,16.458436,0.0 -15.794866000000003,16.45995,0.0 -15.79217,16.456263,0.0 -15.79489,16.454625,0.0 -15.795775000000003,16.452958,0.0 -15.794059999999998,16.449604,0.0 -15.800294999999998,16.449359,0.0 -15.797167,16.442095,0.0 -15.795729999999999,16.44006,0.0 -15.794754999999999,16.437799,0.0 -15.801701,16.433355,0.0 -15.801743999999998,16.431387,0.0 -15.79875,16.425195,0.0 -15.796748000000001,16.422064000000002,0.0 -15.786854000000003,16.426408,0.0 -15.782067439357183,16.428162260230714,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.766822000000003,16.386634,0.0 -15.766790000000004,16.386854,0.0 -15.766827999999997,16.38684,0.0 -15.766822000000003,16.386634,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: 2 marabouts<br>ha: 157<br>Cultures: <br>id_champs: 2 marabouts_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>2 marabouts</value>
+				</Data>
+				<Data name='ha'>
+					<value>157</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>2 marabouts_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.063887,14.799443,0.0 -17.064275,14.800599999999998,0.0 -17.065256,14.800754,0.0 -17.066294000000003,14.800960999999997,0.0 -17.067532,14.801440000000003,0.0 -17.067593,14.799372999999997,0.0 -17.068578999999996,14.800475000000004,0.0 -17.069716,14.799308999999996,0.0 -17.069329,14.798152,0.0 -17.069206,14.795361000000002,0.0 -17.070509000000005,14.794617000000002,0.0 -17.069343999999997,14.790883,0.0 -17.06741,14.785893,0.0 -17.066802,14.784107000000002,0.0 -17.065872000000002,14.783428000000002,0.0 -17.064025,14.784171999999998,0.0 -17.062923,14.78155,0.0 -17.061891,14.782028,0.0 -17.059776999999997,14.783515,0.0 -17.058523000000005,14.783101,0.0 -17.057979,14.783051,0.0 -17.057763,14.783473999999996,0.0 -17.058148,14.784209000000002,0.0 -17.05761,14.78516,0.0 -17.057836000000005,14.786633,0.0 -17.058656000000003,14.787574,0.0 -17.059368,14.78883,0.0 -17.05997,14.789509999999998,0.0 -17.060515,14.789718,0.0 -17.06166,14.790027,0.0 -17.062435,14.792446000000002,0.0 -17.063689,14.792755,0.0 -17.06341,14.795004000000002,0.0 -17.064118,14.796514,0.0 -17.063000999999996,14.796549999999998,0.0 -17.062786,14.797183000000002,0.0 -17.063171999999998,14.798024,0.0 -17.063887,14.799443,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: 2 marabouts<br>ha: 50<br>Cultures: <br>id_champs: 2 marabouts_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>2 marabouts</value>
+				</Data>
+				<Data name='ha'>
+					<value>50</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>2 marabouts_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.061900000000005,14.80666,0.0 -17.06361,14.808009999999998,0.0 -17.066551,14.808613,0.0 -17.067039,14.812356000000001,0.0 -17.069382000000004,14.812097000000001,0.0 -17.069505,14.803867,0.0 -17.061971,14.803865000000002,0.0 -17.061900000000005,14.80666,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: 2 marabouts<br>ha: 133<br>Cultures: <br>id_champs: 2 marabouts_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>2 marabouts</value>
+				</Data>
+				<Data name='ha'>
+					<value>133</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>2 marabouts_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.048315,14.820345,0.0 -17.047939,14.821539000000001,0.0 -17.048797,14.822604000000002,0.0 -17.051899,14.822302,0.0 -17.052235,14.821189,0.0 -17.05355,14.820689999999999,0.0 -17.054612,14.820645,0.0 -17.055119999999995,14.820232000000003,0.0 -17.055245,14.819943,0.0 -17.055543,14.819942000000001,0.0 -17.055583000000002,14.819201,0.0 -17.053656000000004,14.816000999999998,0.0 -17.054195999999997,14.813366999999998,0.0 -17.055597,14.813319000000002,0.0 -17.055525,14.816239,0.0 -17.056716,14.81611,0.0 -17.058036000000005,14.816433000000002,0.0 -17.059139,14.815851,0.0 -17.058918,14.814042,0.0 -17.058445,14.81314,0.0 -17.056743999999995,14.813272,0.0 -17.056652,14.811915,0.0 -17.056354,14.811752000000002,0.0 -17.055881000000003,14.810727,0.0 -17.056554,14.809243000000004,0.0 -17.056537,14.806484000000001,0.0 -17.055811,14.805708,0.0 -17.053605000000005,14.805848,0.0 -17.053441,14.807041,0.0 -17.053579,14.808685000000002,0.0 -17.054099,14.810861,0.0 -17.050998,14.810835,0.0 -17.049169,14.810679999999996,0.0 -17.04637,14.809874000000002,0.0 -17.045652,14.812587,0.0 -17.046629,14.813034,0.0 -17.046848,14.813978000000002,0.0 -17.047531,14.814756,0.0 -17.047321,14.81599,0.0 -17.046691,14.817514,0.0 -17.046823999999997,14.818829000000001,0.0 -17.048096,14.818701000000004,0.0 -17.048315,14.820345,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 855<br>Cultures: Canne<br>id_champs: CSS_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>855</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.765565,16.341377,0.0 -15.763193999999999,16.343397,0.0 -15.759229000000001,16.345182000000005,0.0 -15.756439,16.347710000000003,0.0 -15.746300000000002,16.355901000000003,0.0 -15.741428999999998,16.360059999999997,0.0 -15.733369999999997,16.365748,0.0 -15.729309999999998,16.369059,0.0 -15.73352,16.374236,0.0 -15.7365,16.377878,0.0 -15.739618,16.378974,0.0 -15.759482999999998,16.364734,0.0 -15.777764,16.351246,0.0 -15.767113999999996,16.339012,0.0 -15.765565,16.341377,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Safina<br>ha: 34<br>Cultures: <br>id_champs: Safina_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Safina</value>
+				</Data>
+				<Data name='ha'>
+					<value>34</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Safina_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.140648999999996,14.763380999999999,0.0 -17.142894,14.767454,0.0 -17.148267,14.764192,0.0 -17.148532000000003,14.762087,0.0 -17.146321,14.761000999999998,0.0 -17.140648999999996,14.763380999999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 1995<br>Cultures: Canne<br>id_champs: CSS_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>1995</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.650923999999998,16.41139,0.0 -15.662867999999998,16.417881,0.0 -15.662548000000001,16.42577,0.0 -15.683085000000002,16.436783,0.0 -15.699409000000005,16.406853000000005,0.0 -15.705381999999998,16.396635000000003,0.0 -15.711729,16.386141,0.0 -15.720356,16.384004,0.0 -15.719933000000001,16.382729,0.0 -15.714036,16.379546,0.0 -15.700536000000001,16.379164,0.0 -15.696949000000004,16.385561000000003,0.0 -15.691138,16.382594999999995,0.0 -15.686574000000004,16.390138,0.0 -15.680453000000002,16.387112,0.0 -15.671443000000002,16.40312,0.0 -15.659392999999998,16.396694999999998,0.0 -15.650923999999998,16.41139,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SCL<br>ha: 118<br>Cultures: Mais_Autre<br>id_champs: SCL_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SCL</value>
+				</Data>
+				<Data name='ha'>
+					<value>118</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mais_Autre</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SCL_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.316667,16.185879,0.0 -16.31712,16.187260000000002,0.0 -16.317012,16.1878,0.0 -16.316197999999996,16.190074,0.0 -16.315213000000004,16.193143,0.0 -16.31469,16.194611,0.0 -16.314639999999997,16.195176,0.0 -16.314868,16.196041000000005,0.0 -16.315343,16.196867,0.0 -16.315971,16.197529999999997,0.0 -16.316580000000002,16.197877000000002,0.0 -16.317106,16.198165,0.0 -16.317714000000002,16.198337,0.0 -16.318096,16.198351,0.0 -16.318875,16.19842,0.0 -16.319221,16.198281,0.0 -16.320146,16.197979,0.0 -16.320835000000002,16.197626,0.0 -16.321361,16.196915,0.0 -16.321812000000005,16.196137999999998,0.0 -16.322091,16.195411,0.0 -16.322677,16.193993,0.0 -16.323247,16.192621,0.0 -16.323502999999995,16.192117,0.0 -16.324165,16.19081,0.0 -16.324507,16.190179,0.0 -16.324743,16.189818,0.0 -16.325178999999995,16.18904,0.0 -16.325296000000005,16.188331000000005,0.0 -16.325194999999997,16.187729,0.0 -16.325012,16.187215,0.0 -16.324724000000003,16.186536000000004,0.0 -16.324453,16.18601,0.0 -16.323996,16.185528,0.0 -16.323215,16.184940000000005,0.0 -16.322374999999997,16.184678,0.0 -16.321698,16.184535,0.0 -16.321085,16.184531,0.0 -16.320449,16.184696,0.0 -16.319667000000003,16.18491,0.0 -16.319393,16.185019000000004,0.0 -16.318815,16.185197,0.0 -16.318507,16.185209000000004,0.0 -16.318145,16.185322,0.0 -16.317753,16.185421999999996,0.0 -16.317010999999997,16.185564000000003,0.0 -16.316667,16.185879,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SEPAM<br>ha: 126<br>Cultures: <br>id_champs: SEPAM_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SEPAM</value>
+				</Data>
+				<Data name='ha'>
+					<value>126</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SEPAM_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.092212999999997,14.825439,0.0 -17.092099,14.826095,0.0 -17.092099,14.826494000000002,0.0 -17.092242,14.826836000000002,0.0 -17.092384,14.827349000000002,0.0 -17.092327,14.827662000000002,0.0 -17.092128,14.828289,0.0 -17.092127999999995,14.828574000000003,0.0 -17.092128,14.828886999999998,0.0 -17.092356,14.829229000000002,0.0 -17.092641,14.829399999999996,0.0 -17.092897,14.829600000000003,0.0 -17.092897,14.829799,0.0 -17.092726,14.830255,0.0 -17.092810999999998,14.830654000000001,0.0 -17.092867999999996,14.830939000000004,0.0 -17.093039,14.831195,0.0 -17.093324,14.831309000000001,0.0 -17.09378,14.831309000000001,0.0 -17.094151,14.831309000000001,0.0 -17.094436,14.831309000000001,0.0 -17.094692,14.831395,0.0 -17.09492,14.831537000000003,0.0 -17.095006,14.831680000000002,0.0 -17.095006,14.832050000000002,0.0 -17.09549,14.832107,0.0 -17.096059999999998,14.832164,0.0 -17.096601,14.83225,0.0 -17.096772,14.831936000000002,0.0 -17.096886,14.831765,0.0 -17.097513,14.831737,0.0 -17.097912,14.831395,0.0 -17.097997,14.830796,0.0 -17.098111,14.830483000000001,0.0 -17.098596,14.830454000000001,0.0 -17.098995,14.830625,0.0 -17.100106,14.830625,0.0 -17.100847000000005,14.830654000000001,0.0 -17.100847000000005,14.830113,0.0 -17.101502,14.829856,0.0 -17.102272,14.829429000000001,0.0 -17.102756,14.828545,0.0 -17.103013,14.828032000000002,0.0 -17.103126,14.827292000000002,0.0 -17.103411000000005,14.826266,0.0 -17.103439999999996,14.825467999999999,0.0 -17.103582,14.824528,0.0 -17.103696000000003,14.823416,0.0 -17.103896,14.822674999999995,0.0 -17.103896,14.822106000000002,0.0 -17.104409,14.821308,0.0 -17.103896,14.821108000000002,0.0 -17.104124,14.819427,0.0 -17.103382999999997,14.819427,0.0 -17.102043999999996,14.819570000000002,0.0 -17.101331,14.819427,0.0 -17.100647,14.819256000000005,0.0 -17.099878000000004,14.819,0.0 -17.09908,14.818772,0.0 -17.097827,14.819712,0.0 -17.097342,14.819997000000004,0.0 -17.097285,14.820624,0.0 -17.096943,14.821222000000004,0.0 -17.097456000000005,14.821963000000002,0.0 -17.098111000000003,14.822960000000004,0.0 -17.09757,14.823131000000002,0.0 -17.096801,14.823502,0.0 -17.096316,14.823558999999996,0.0 -17.095291000000003,14.823302,0.0 -17.09492,14.824129000000001,0.0 -17.094464,14.824129000000001,0.0 -17.092698,14.824414000000004,0.0 -17.092212999999997,14.825439,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SEPAM<br>ha: 210<br>Cultures: <br>id_champs: SEPAM_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SEPAM</value>
+				</Data>
+				<Data name='ha'>
+					<value>210</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SEPAM_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.981735,15.942234999999997,0.0 -15.980874,15.95296,0.0 -15.984832,15.953747000000002,0.0 -15.988481,15.954655,0.0 -15.992936999999998,15.956100999999999,0.0 -15.996374000000001,15.957154000000003,0.0 -16.002195000000004,15.947957,0.0 -15.993778,15.946597000000002,0.0 -15.986354000000002,15.944762,0.0 -15.981735,15.942234999999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: GDS<br>ha: 66<br>Cultures: <br>id_champs: GDS_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>GDS</value>
+				</Data>
+				<Data name='ha'>
+					<value>66</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>GDS_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.380922,16.076427000000002,0.0 -16.380510999999995,16.078563,0.0 -16.380098,16.078818,0.0 -16.378991,16.080056000000003,0.0 -16.378489,16.080857,0.0 -16.378550000000004,16.082431,0.0 -16.378202000000005,16.083534,0.0 -16.379355,16.083914,0.0 -16.37864,16.085915,0.0 -16.378441,16.086587,0.0 -16.378601,16.086807,0.0 -16.378874,16.086934,0.0 -16.379284,16.087031,0.0 -16.379692,16.087119,0.0 -16.380135000000003,16.087189999999996,0.0 -16.380408,16.087306,0.0 -16.381395000000005,16.086282000000004,0.0 -16.381745,16.085731,0.0 -16.382579000000003,16.084921,0.0 -16.383863999999996,16.083579999999998,0.0 -16.384663000000003,16.082201,0.0 -16.385139,16.081471,0.0 -16.386231999999996,16.080035,0.0 -16.386907999999995,16.078990000000005,0.0 -16.386491,16.078607,0.0 -16.384717,16.077002999999998,0.0 -16.383891,16.076258999999997,0.0 -16.382048,16.075961,0.0 -16.380922,16.076427000000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Safina<br>ha: 129<br>Cultures: <br>id_champs: Safina_5]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Safina</value>
+				</Data>
+				<Data name='ha'>
+					<value>129</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Safina_5</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.124215,14.758140000000001,0.0 -17.123103,14.762159999999998,0.0 -17.122782000000004,14.763922,0.0 -17.122822,14.764190000000001,0.0 -17.142637,14.760198000000004,0.0 -17.141128,14.756808,0.0 -17.139908,14.75393,0.0 -17.13265,14.755654000000005,0.0 -17.1315,14.757416,0.0 -17.127934,14.757835,0.0 -17.126192,14.757719999999999,0.0 -17.124215,14.758140000000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 3<br>Cultures: Canne<br>id_champs: CSS_4]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>3</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_4</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.794866000000003,16.45995,0.0 -15.796156,16.461715000000005,0.0 -15.798567000000002,16.460672,0.0 -15.794866000000003,16.45995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 213<br>Cultures: Canne<br>id_champs: CSS_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>213</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.72519,16.375142,0.0 -15.721651,16.382119,0.0 -15.720828,16.385711,0.0 -15.722787999999998,16.386992000000003,0.0 -15.728919999999999,16.390175000000003,0.0 -15.73068,16.387836,0.0 -15.737294,16.380536,0.0 -15.729384999999999,16.369713,0.0 -15.72519,16.375142,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Safina<br>ha: 17<br>Cultures: <br>id_champs: Safina_4]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Safina</value>
+				</Data>
+				<Data name='ha'>
+					<value>17</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Safina_4</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.144528000000005,14.757346,0.0 -17.144669,14.759680999999997,0.0 -17.145261000000005,14.760026000000002,0.0 -17.149489,14.759759000000003,0.0 -17.14907,14.759110000000003,0.0 -17.149783,14.758308,0.0 -17.148948,14.756546000000002,0.0 -17.144528000000005,14.757346,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: GDS<br>ha: 46<br>Cultures: <br>id_champs: GDS_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>GDS</value>
+				</Data>
+				<Data name='ha'>
+					<value>46</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>GDS_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.349128999999998,16.096739,0.0 -16.346576999999996,16.093584,0.0 -16.343694999999997,16.095579,0.0 -16.340934,16.097593,0.0 -16.338575999999996,16.099311,0.0 -16.341127,16.102251,0.0 -16.342519,16.101342000000002,0.0 -16.34405,16.100178,0.0 -16.344695,16.099802,0.0 -16.349128999999998,16.096739,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOCAS (SCL)<br>ha: 61<br>Cultures: Mais<br>id_champs: SOCAS_2 (SCL)]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOCAS (SCL)</value>
+				</Data>
+				<Data name='ha'>
+					<value>61</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mais</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOCAS_2 (SCL)</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.280485,16.24305,0.0 -16.280566000000004,16.243686,0.0 -16.280824,16.244412,0.0 -16.281094,16.245190000000004,0.0 -16.281391000000003,16.245707,0.0 -16.281809,16.246123,0.0 -16.282323,16.246501,0.0 -16.282755,16.246813,0.0 -16.283188,16.247008,0.0 -16.283634000000003,16.247203,0.0 -16.284201000000003,16.247305000000004,0.0 -16.284685999999997,16.247318,0.0 -16.285442,16.247213,0.0 -16.285953,16.247082,0.0 -16.286466,16.246914,0.0 -16.286858,16.246642,0.0 -16.287333,16.246384,0.0 -16.287668999999998,16.246202,0.0 -16.288197999999998,16.245658,0.0 -16.288513,16.245075,0.0 -16.288796999999995,16.244505,0.0 -16.288847999999998,16.243817000000004,0.0 -16.288873,16.243272,0.0 -16.288950999999997,16.242650000000005,0.0 -16.288951,16.242365,0.0 -16.288845,16.24208,0.0 -16.288509,16.241573,0.0 -16.288224,16.241042000000004,0.0 -16.287872,16.240446,0.0 -16.287374000000003,16.240069,0.0 -16.28693,16.239939,0.0 -16.286216,16.239652,0.0 -16.28535,16.239303,0.0 -16.284917,16.239408,0.0 -16.284038999999996,16.239511,0.0 -16.283337,16.239626,0.0 -16.282730000000004,16.239871000000004,0.0 -16.282054,16.240377,0.0 -16.281473,16.241105,0.0 -16.280824,16.242025,0.0 -16.280485,16.24305,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: WAF<br>ha: 310<br>Cultures: <br>id_champs: WAF]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>WAF</value>
+				</Data>
+				<Data name='ha'>
+					<value>310</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>WAF</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.992637000000002,16.105343,0.0 -15.991494999999999,16.108231,0.0 -15.993419,16.10899,0.0 -15.991581,16.112199000000004,0.0 -15.992166,16.113851000000004,0.0 -15.993899,16.114556999999998,0.0 -15.995094999999997,16.114979999999996,0.0 -15.997496999999997,16.115888000000005,0.0 -15.999368,16.11655,0.0 -16.003859,16.118188999999997,0.0 -16.006582,16.119176,0.0 -16.008694,16.119958,0.0 -16.011922,16.121130000000004,0.0 -16.012637,16.121033,0.0 -16.013572000000003,16.121331,0.0 -16.014592999999998,16.119828,0.0 -16.016057,16.117582,0.0 -16.016839,16.117203000000003,0.0 -16.018414,16.11702,0.0 -16.018746,16.116959,0.0 -16.019333,16.116496,0.0 -16.020051,16.115611,0.0 -16.020339,16.115002999999998,0.0 -16.020445000000002,16.11441,0.0 -16.020382999999995,16.1134,0.0 -16.020188999999995,16.112421,0.0 -16.020007,16.111711999999997,0.0 -16.019628,16.111603999999996,0.0 -16.017063,16.111025000000005,0.0 -16.015955,16.110773,0.0 -16.014992,16.110565,0.0 -16.01314,16.110037999999996,0.0 -16.010555000000004,16.10948,0.0 -16.007947999999995,16.108917,0.0 -16.006776999999996,16.108635999999997,0.0 -16.005296000000005,16.108276,0.0 -16.002783000000004,16.107672,0.0 -16.001023,16.107256999999997,0.0 -15.999547,16.106924,0.0 -15.997840999999998,16.106519,0.0 -15.996033999999998,16.106098,0.0 -15.993865000000001,16.105603999999996,0.0 -15.992637000000002,16.105343,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Safina<br>ha: 129<br>Cultures: <br>id_champs: Safina_6]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Safina</value>
+				</Data>
+				<Data name='ha'>
+					<value>129</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Safina_6</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.123103,14.764345,0.0 -17.123322,14.768109000000004,0.0 -17.124839,14.773684,0.0 -17.125156,14.773646,0.0 -17.137781,14.767135000000001,0.0 -17.136821000000005,14.761681000000001,0.0 -17.123103,14.764345,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: VERSEN<br>ha: 29<br>Cultures: <br>id_champs: VERSEN]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>VERSEN</value>
+				</Data>
+				<Data name='ha'>
+					<value>29</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>VERSEN</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.132618000000004,14.820309000000004,0.0 -17.133415,14.821106,0.0 -17.134233,14.821792000000004,0.0 -17.134720000000005,14.821593000000002,0.0 -17.135274,14.821305000000002,0.0 -17.135761,14.820995,0.0 -17.136026,14.820885,0.0 -17.136425,14.820752000000004,0.0 -17.136823,14.820575,0.0 -17.137155,14.820441999999998,0.0 -17.137553000000004,14.820243000000001,0.0 -17.137863,14.820131999999997,0.0 -17.138106999999998,14.820044,0.0 -17.138372,14.819932999999999,0.0 -17.138616000000003,14.819424000000003,0.0 -17.139234999999996,14.819401999999998,0.0 -17.139545000000002,14.817808000000003,0.0 -17.137574999999995,14.817166,0.0 -17.137331999999997,14.816923,0.0 -17.137708,14.816613000000002,0.0 -17.137952,14.816148000000002,0.0 -17.137111,14.815440000000004,0.0 -17.136425,14.815086,0.0 -17.135938,14.814953,0.0 -17.135606,14.81513,0.0 -17.135914999999997,14.815683999999996,0.0 -17.135295999999997,14.815926999999999,0.0 -17.135229,14.816193000000004,0.0 -17.135097,14.816547000000002,0.0 -17.134765,14.816879,0.0 -17.134986,14.816966999999995,0.0 -17.134698,14.818273000000001,0.0 -17.134012,14.81814,0.0 -17.133503,14.817896999999999,0.0 -17.133392,14.818539,0.0 -17.133592,14.819092000000005,0.0 -17.13368,14.819667,0.0 -17.132795000000005,14.820066,0.0 -17.132618000000004,14.820309000000004,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: STS<br>ha: 126<br>Cultures: Tomates<br>id_champs: STS]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>STS</value>
+				</Data>
+				<Data name='ha'>
+					<value>126</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Tomates</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>STS</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.399733000000005,16.128415,0.0 -16.403303,16.132759,0.0 -16.408701,16.128497,0.0 -16.405228,16.124095,0.0 -16.400408,16.118428,0.0 -16.398861000000004,16.118455,0.0 -16.398269000000003,16.120035000000005,0.0 -16.397727,16.121205999999997,0.0 -16.397541,16.122085000000002,0.0 -16.397396,16.123178000000003,0.0 -16.396748,16.123687,0.0 -16.396283,16.125194999999998,0.0 -16.396163000000005,16.125594,0.0 -16.395483,16.126495,0.0 -16.395139999999998,16.127366,0.0 -16.394631,16.128403,0.0 -16.394283,16.129492,0.0 -16.393526,16.131242,0.0 -16.393981,16.131287,0.0 -16.394615,16.131102,0.0 -16.396343,16.130844,0.0 -16.397036,16.130330000000004,0.0 -16.397399,16.130127,0.0 -16.399733000000005,16.128415,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOLDIVE<br>ha: 51<br>Cultures: Melon<br>id_champs: SOLDIVE_4]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOLDIVE</value>
+				</Data>
+				<Data name='ha'>
+					<value>51</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Melon</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOLDIVE_4</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.277535,16.217492,0.0 -16.278343999999997,16.218003,0.0 -16.279813000000004,16.218977,0.0 -16.281554000000003,16.220136999999998,0.0 -16.281885999999997,16.219841999999996,0.0 -16.282715,16.219007,0.0 -16.283376,16.218331,0.0 -16.28391,16.21774,0.0 -16.283986,16.217674,0.0 -16.284291,16.217195000000004,0.0 -16.284595,16.216725,0.0 -16.284656999999996,16.216353,0.0 -16.284787000000005,16.215677,0.0 -16.284751999999997,16.215416,0.0 -16.284917,16.214964,0.0 -16.285126,16.21385,0.0 -16.28517,16.212952,0.0 -16.284410000000005,16.212329,0.0 -16.282982,16.211447,0.0 -16.282023999999996,16.210869,0.0 -16.281628,16.211329000000003,0.0 -16.280491000000005,16.212741,0.0 -16.278643,16.214932,0.0 -16.278156,16.215509,0.0 -16.276852000000005,16.217091,0.0 -16.277535,16.217492,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOLDIVE<br>ha: 9<br>Cultures: Melon<br>id_champs: SOLDIVE_5]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOLDIVE</value>
+				</Data>
+				<Data name='ha'>
+					<value>9</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Melon</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOLDIVE_5</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.31026,16.186475,0.0 -16.309966,16.18625,0.0 -16.309471,16.186225000000004,0.0 -16.309044,16.186475,0.0 -16.30896,16.186418999999997,0.0 -16.308154,16.185364,0.0 -16.307517,16.185565,0.0 -16.307022,16.185928,0.0 -16.307911,16.187120000000004,0.0 -16.307684,16.187273,0.0 -16.307617,16.187402,0.0 -16.306163,16.188476,0.0 -16.306821000000003,16.189093000000003,0.0 -16.308004,16.188803,0.0 -16.308691000000003,16.188479,0.0 -16.309849,16.18778,0.0 -16.310444000000004,16.186821,0.0 -16.31026,16.186475,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SCL<br>ha: 92<br>Cultures: Mais<br>id_champs: SCL_4]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SCL</value>
+				</Data>
+				<Data name='ha'>
+					<value>92</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mais</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SCL_4</value>
+				</Data>
+			</ExtendedData>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-16.275071999999998,16.228354,0.0 -16.275787,16.229067,0.0 -16.276677,16.230018,0.0 -16.277325,16.230721000000003,0.0 -16.277962000000002,16.231413000000003,0.0 -16.278675,16.232155999999996,0.0 -16.279355,16.23283,0.0 -16.280685000000002,16.231274,0.0 -16.281412999999997,16.230427,0.0 -16.283458,16.228067999999997,0.0 -16.28497,16.226333,0.0 -16.286370000000005,16.224672000000005,0.0 -16.288043999999996,16.22268,0.0 -16.289065,16.221426,0.0 -16.287984,16.220817,0.0 -16.286774000000005,16.220093,0.0 -16.285819,16.21945,0.0 -16.285003,16.220693,0.0 -16.284393,16.221432,0.0 -16.283246000000002,16.222878,0.0 -16.281454000000004,16.225064,0.0 -16.280366999999995,16.224821000000002,0.0 -16.278731999999998,16.226681,0.0 -16.278362000000005,16.226397,0.0 -16.276717000000005,16.227425,0.0 -16.275668,16.227823,0.0 -16.274935,16.228131,0.0 -16.275071999999998,16.228354,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-16.277559999999998,16.231651999999997,0.0 -16.277332,16.231276,0.0 -16.277051,16.230805,0.0 -16.276687000000003,16.230336000000005,0.0 -16.275649,16.229213,0.0 -16.275059000000002,16.228525,0.0 -16.274236,16.229433,0.0 -16.273918000000002,16.22994,0.0 -16.27356,16.230223,0.0 -16.273341,16.230662,0.0 -16.272542,16.231213,0.0 -16.27225,16.231445,0.0 -16.274984,16.234454999999997,0.0 -16.277559999999998,16.231651999999997,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SCL<br>ha: 393<br>Cultures: <br>id_champs: SCL_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SCL</value>
+				</Data>
+				<Data name='ha'>
+					<value>393</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SCL_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.349412,15.964978000000002,0.0 -16.338911,15.963436999999999,0.0 -16.333905,15.962975000000002,0.0 -16.33052,15.971230000000002,0.0 -16.329294999999995,15.974481,0.0 -16.345307,15.976878999999998,0.0 -16.356833,15.978335999999999,0.0 -16.358122,15.971995,0.0 -16.359928000000004,15.966106000000002,0.0 -16.349412,15.964978000000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOLDIVE<br>ha: 12<br>Cultures: inconnu<br>id_champs: SOLDIVE_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOLDIVE</value>
+				</Data>
+				<Data name='ha'>
+					<value>12</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>inconnu</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOLDIVE_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.330484,16.162435000000002,0.0 -16.331715000000003,16.161049,0.0 -16.332847,16.159681,0.0 -16.333648,16.158755,0.0 -16.334626000000004,16.157544,0.0 -16.332549,16.156421,0.0 -16.332228999999998,16.157374,0.0 -16.331777,16.158465000000003,0.0 -16.331049,16.159568999999998,0.0 -16.330023,16.160932999999996,0.0 -16.329467,16.161547,0.0 -16.330484,16.162435000000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOLDIVE<br>ha: 3<br>Cultures: inconnu<br>id_champs: SOLDIVE_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOLDIVE</value>
+				</Data>
+				<Data name='ha'>
+					<value>3</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>inconnu</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOLDIVE_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.322835,16.170714,0.0 -16.323232,16.170954000000002,0.0 -16.323596000000002,16.171075,0.0 -16.323974,16.170206,0.0 -16.323496,16.169958999999995,0.0 -16.323222999999995,16.170365,0.0 -16.322857000000003,16.170198999999997,0.0 -16.322401,16.169926,0.0 -16.321938000000003,16.16963,0.0 -16.321409000000003,16.169298,0.0 -16.320896000000005,16.168949,0.0 -16.320312999999995,16.168509,0.0 -16.319987,16.168876,0.0 -16.320777999999997,16.169432,0.0 -16.321585,16.169973000000002,0.0 -16.322835,16.170714,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SCL<br>ha: 509<br>Cultures: <br>id_champs: SCL_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SCL</value>
+				</Data>
+				<Data name='ha'>
+					<value>509</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SCL_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.426957,16.192901999999997,0.0 -16.424688000000003,16.188699,0.0 -16.423822999999995,16.187224,0.0 -16.425552,16.18669,0.0 -16.425914999999996,16.184915000000004,0.0 -16.426238000000005,16.183066000000004,0.0 -16.426707999999998,16.181654,0.0 -16.426793,16.180724,0.0 -16.427252,16.179667999999996,0.0 -16.427661999999998,16.17659,0.0 -16.426915,16.176388,0.0 -16.427213,16.174859000000005,0.0 -16.427399,16.173187000000002,0.0 -16.426688,16.171922,0.0 -16.425643,16.170829,0.0 -16.422806,16.170552999999998,0.0 -16.422648,16.171807,0.0 -16.421812,16.174878,0.0 -16.42062,16.180855999999995,0.0 -16.419966,16.183702,0.0 -16.41902,16.186809,0.0 -16.419153,16.187407000000004,0.0 -16.422956,16.187401,0.0 -16.423189999999998,16.18789,0.0 -16.419657,16.187998999999998,0.0 -16.418534,16.190508,0.0 -16.414743,16.192540999999995,0.0 -16.414905000000005,16.196675000000003,0.0 -16.413559,16.197243,0.0 -16.41286,16.196880999999998,0.0 -16.411999,16.187378999999996,0.0 -16.40901,16.186581,0.0 -16.406473,16.188396,0.0 -16.400809,16.192557,0.0 -16.396552,16.195335,0.0 -16.392892,16.198121,0.0 -16.391385,16.198793,0.0 -16.391115999999997,16.199465,0.0 -16.390466,16.200950000000002,0.0 -16.391672,16.20313,0.0 -16.393853000000004,16.202563,0.0 -16.395317,16.202093,0.0 -16.395658,16.200571,0.0 -16.395154,16.19962,0.0 -16.395638,16.199516,0.0 -16.396663,16.199825000000004,0.0 -16.397577000000002,16.199825000000004,0.0 -16.399491,16.199508999999995,0.0 -16.401348,16.199027,0.0 -16.402017000000004,16.200137,0.0 -16.402784,16.20075,0.0 -16.404203,16.202472,0.0 -16.406519000000003,16.200801000000002,0.0 -16.407570999999997,16.200084,0.0 -16.408556,16.199349,0.0 -16.410941000000005,16.199894,0.0 -16.412434000000005,16.201746,0.0 -16.413021,16.20272,0.0 -16.414428,16.205179,0.0 -16.414967,16.205228,0.0 -16.415356,16.206002,0.0 -16.420877999999995,16.203083,0.0 -16.420015999999997,16.201221,0.0 -16.421791999999996,16.200188,0.0 -16.4212,16.198173,0.0 -16.425992,16.195383,0.0 -16.426957,16.192901999999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SAID<br>ha: 68<br>Cultures: Mangues_elevage<br>id_champs: SAID]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SAID</value>
+				</Data>
+				<Data name='ha'>
+					<value>68</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mangues_elevage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SAID</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.049995,14.60715,0.0 -17.052033,14.606406999999999,0.0 -17.052185000000005,14.606407,0.0 -17.052451999999995,14.60734,0.0 -17.055175,14.606502000000003,0.0 -17.055823,14.605683000000004,0.0 -17.056927000000005,14.603645,0.0 -17.057289,14.602979,0.0 -17.057897999999998,14.601473999999996,0.0 -17.057727000000003,14.600846,0.0 -17.05746,14.600141000000002,0.0 -17.057346000000003,14.599665,0.0 -17.057156,14.599589000000002,0.0 -17.055956,14.600027,0.0 -17.055499,14.598542,0.0 -17.055289,14.598484,0.0 -17.054013,14.599170000000003,0.0 -17.052433,14.599608,0.0 -17.051633,14.599931999999999,0.0 -17.050966000000003,14.600141000000002,0.0 -17.050357,14.600427000000002,0.0 -17.047653,14.601855000000002,0.0 -17.049005,14.604330999999998,0.0 -17.049995,14.60715,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CASL<br>ha: 571<br>Cultures: Riz<br>id_champs: CASL]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CASL</value>
+				</Data>
+				<Data name='ha'>
+					<value>571</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Riz</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CASL</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.232044,16.32921,0.0 -16.238781000000003,16.324296,0.0 -16.240927,16.322437,0.0 -16.241409,16.321463,0.0 -16.243231,16.318518,0.0 -16.244594,16.316239,0.0 -16.246619999999997,16.313164,0.0 -16.246899,16.312853,0.0 -16.246995000000002,16.312675000000002,0.0 -16.247317,16.312608,0.0 -16.248125,16.312586,0.0 -16.249182,16.312566,0.0 -16.249851,16.312610000000003,0.0 -16.255967,16.312641,0.0 -16.256616,16.310779999999998,0.0 -16.256524,16.297471,0.0 -16.25295,16.297452,0.0 -16.253016,16.303584,0.0 -16.251444000000003,16.303606,0.0 -16.251479999999997,16.305907,0.0 -16.247022000000005,16.305974,0.0 -16.243769,16.306038999999995,0.0 -16.24136,16.306019999999997,0.0 -16.240454,16.305985,0.0 -16.240339000000002,16.305751000000004,0.0 -16.24045,16.303676,0.0 -16.240551,16.301254,0.0 -16.240763000000005,16.298025999999997,0.0 -16.240803,16.297712,0.0 -16.225605000000005,16.297841,0.0 -16.228764,16.307694,0.0 -16.233984000000003,16.310967,0.0 -16.231877,16.315479999999997,0.0 -16.228778999999996,16.322404,0.0 -16.232044,16.32921,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Safina<br>ha: 23<br>Cultures: <br>id_champs: Safina_3]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Safina</value>
+				</Data>
+				<Data name='ha'>
+					<value>23</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Safina_3</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.138674,14.749952,0.0 -17.137683,14.751063,0.0 -17.135422,14.752671,0.0 -17.130113,14.754008000000004,0.0 -17.13039,14.755463000000002,0.0 -17.130667999999996,14.755577000000002,0.0 -17.1361,14.754315999999998,0.0 -17.138394,14.752902,0.0 -17.14027,14.751440000000002,0.0 -17.139752,14.749833000000002,0.0 -17.138674,14.749952,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SOCAS (SCL)<br>ha: 120<br>Cultures: Mais<br>id_champs: SOCAS_1 (SCL)]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SOCAS (SCL)</value>
+				</Data>
+				<Data name='ha'>
+					<value>120</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mais</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SOCAS_1 (SCL)</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.283916,16.235760000000003,0.0 -16.284087000000003,16.236864000000004,0.0 -16.284385999999998,16.237784,0.0 -16.284643,16.238702,0.0 -16.285515,16.239236,0.0 -16.287518,16.239951,0.0 -16.288072,16.239932,0.0 -16.288584000000004,16.239893,0.0 -16.28982,16.239668,0.0 -16.290522000000003,16.239236,0.0 -16.291074999999996,16.238805,0.0 -16.29148,16.238314,0.0 -16.291758,16.237906,0.0 -16.291989,16.23729,0.0 -16.292263000000002,16.236592000000005,0.0 -16.292432,16.236326,0.0 -16.292685,16.235793,0.0 -16.293026999999995,16.234753,0.0 -16.293260000000004,16.234181,0.0 -16.293792,16.233385000000002,0.0 -16.294609,16.232139,0.0 -16.295396,16.231219,0.0 -16.295817,16.229892,0.0 -16.295669,16.229259000000003,0.0 -16.295435000000005,16.22836,0.0 -16.295095,16.227685000000005,0.0 -16.294802,16.227294,0.0 -16.294332,16.226824000000004,0.0 -16.293844,16.226516,0.0 -16.293292,16.226269,0.0 -16.292465,16.226122,0.0 -16.291358,16.226263,0.0 -16.290506000000004,16.226486000000005,0.0 -16.289973999999997,16.22677,0.0 -16.288565,16.228575,0.0 -16.286646,16.231585,0.0 -16.285345000000003,16.232935,0.0 -16.284279,16.234081,0.0 -16.283916,16.235760000000003,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: charles adad<br>ha: 206<br>Cultures: Mangues<br>id_champs: charles adad]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>charles adad</value>
+				</Data>
+				<Data name='ha'>
+					<value>206</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Mangues</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>charles adad</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.041317,14.558881000000001,0.0 -17.040685999999997,14.558899000000002,0.0 -17.038659,14.560164,0.0 -17.034836000000002,14.562668,0.0 -17.034662,14.563374,0.0 -17.034485000000004,14.565063000000004,0.0 -17.037306,14.569425,0.0 -17.03929,14.572312999999996,0.0 -17.04218,14.576936,0.0 -17.04339,14.578971,0.0 -17.047897,14.576953999999997,0.0 -17.051785,14.574605999999998,0.0 -17.041317,14.558881000000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Nereo CABELLO<br>ha: 73<br>Cultures: Friche<br>id_champs: Nereo CABELLO_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Nereo CABELLO</value>
+				</Data>
+				<Data name='ha'>
+					<value>73</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Friche</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Nereo CABELLO_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.264329,16.253276,0.0 -16.267449,16.250897,0.0 -16.272301,16.247067,0.0 -16.268566000000003,16.242678,0.0 -16.263719,16.246454,0.0 -16.259734,16.249287999999996,0.0 -16.264329,16.253276,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Nereo CABELLO<br>ha: 46<br>Cultures: Friche<br>id_champs: Nereo CABELLO_1]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Nereo CABELLO</value>
+				</Data>
+				<Data name='ha'>
+					<value>46</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Friche</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Nereo CABELLO_1</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.276385,16.252025,0.0 -16.277475,16.252480000000002,0.0 -16.278685000000003,16.252650000000003,0.0 -16.280092,16.253088000000005,0.0 -16.282252,16.253563,0.0 -16.283313,16.2512,0.0 -16.284999000000003,16.247798,0.0 -16.278903999999997,16.246253,0.0 -16.276385,16.252025,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: Safina<br>ha: 30<br>Cultures: <br>id_champs: Safina_2]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>Safina</value>
+				</Data>
+				<Data name='ha'>
+					<value>30</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>Safina_2</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.119472,14.776835999999998,0.0 -17.119775,14.778908999999999,0.0 -17.121183,14.779793999999999,0.0 -17.124219999999998,14.778870000000001,0.0 -17.125088,14.777814000000001,0.0 -17.127095,14.777244,0.0 -17.125183000000003,14.773923999999996,0.0 -17.119472,14.776835999999998,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 16858<br>Cultures: <br>id_champs: SENHUILE_6]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>16858</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_6</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.935573000000002,16.234144,0.0 -15.885462000000002,16.339891000000005,0.0 -15.890159,16.344621,0.0 -15.907140000000002,16.338476000000004,0.0 -15.934571,16.329431,0.0 -15.940426000000002,16.319512,0.0 -15.952280000000002,16.299063,0.0 -15.962677,16.291602,0.0 -15.970265000000001,16.273222,0.0 -15.979968999999997,16.26992,0.0 -15.992585,16.246684,0.0 -15.993941,16.232890999999995,0.0 -16.016844,16.218247,0.0 -16.080172,16.141947,0.0 -16.075141,16.132166,0.0 -16.026612000000004,16.117373,0.0 -16.008744999999998,16.128752,0.0 -15.991339999999997,16.134114,0.0 -15.935573000000002,16.234144,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 6645<br>Cultures: <br>id_champs: SENHUILE_7]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>6645</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_7</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.876492999999998,16.376869999999997,0.0 -15.887968999999998,16.389599,0.0 -15.892098999999998,16.391086,0.0 -15.897616000000001,16.387672999999996,0.0 -15.977246,16.342394,0.0 -15.986228,16.348868,0.0 -15.998363,16.344559,0.0 -16.068017,16.287243000000004,0.0 -16.025356000000002,16.262221,0.0 -15.990753000000002,16.302726999999997,0.0 -15.984015,16.303154,0.0 -15.957928999999998,16.336778,0.0 -15.944441000000005,16.342381000000003,0.0 -15.906648999999996,16.364368,0.0 -15.899006999999996,16.362638,0.0 -15.876492999999998,16.376869999999997,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 6511<br>Cultures: <br>id_champs: SENHUILE_4]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>6511</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_4</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.317097000000004,16.060438,0.0 -16.327888000000005,16.043398,0.0 -16.331037,16.036949,0.0 -16.341313,16.022741,0.0 -16.347365000000003,16.013187,0.0 -16.350499999999997,16.004938,0.0 -16.350468999999997,16.000309,0.0 -16.355467,15.992306000000001,0.0 -16.336286999999995,15.986768000000001,0.0 -16.335479999999997,15.985229999999998,0.0 -16.314471000000005,15.984331,0.0 -16.309694000000004,15.985646,0.0 -16.30809,15.984368999999997,0.0 -16.302778,15.985172999999998,0.0 -16.300954,15.990841999999997,0.0 -16.300449,15.99496,0.0 -16.303679,16.001113,0.0 -16.301841,16.004724,0.0 -16.297868,16.007063,0.0 -16.293617,16.007603,0.0 -16.288313000000002,16.009692,0.0 -16.285403,16.012024000000004,0.0 -16.283561,16.015121000000004,0.0 -16.281730999999997,16.020019,0.0 -16.279372000000002,16.025433,0.0 -16.276460000000004,16.027508,0.0 -16.271684,16.02908,0.0 -16.265299000000002,16.028603000000004,0.0 -16.259444,16.027866,0.0 -16.258087,16.023502,0.0 -16.25804,16.016044,0.0 -16.258789,16.008324,0.0 -16.258749,16.001895,0.0 -16.259008,16.000865,0.0 -16.182995,16.006183,0.0 -16.189402000000005,16.01052,0.0 -16.193412,16.014097999999997,0.0 -16.199819999999995,16.018435,0.0 -16.205166000000002,16.023034000000003,0.0 -16.2129,16.026847999999998,0.0 -16.217466,16.034281,0.0 -16.219625999999998,16.039669,0.0 -16.222308,16.043254,0.0 -16.260073999999996,16.043550000000003,0.0 -16.300499,16.043823,0.0 -16.302332000000003,16.03944,0.0 -16.306049,16.038389,0.0 -16.308689,16.035544,0.0 -16.310536000000003,16.033218000000005,0.0 -16.31131,16.029613,0.0 -16.314487,16.027536000000005,0.0 -16.316346999999997,16.027267,0.0 -16.316586,16.023151,0.0 -16.319762,16.020817,0.0 -16.324543,16.020016,0.0 -16.319479999999995,16.018504,0.0 -16.321594,16.016433999999997,0.0 -16.325047,16.015898,0.0 -16.329027,16.014588,0.0 -16.331142,16.012774,0.0 -16.331922999999996,16.010198,0.0 -16.332968999999995,16.007619,0.0 -16.337215,16.006307,0.0 -16.341194,16.004996,0.0 -16.334616,16.015324,0.0 -16.329862,16.020239999999998,0.0 -16.327756999999995,16.023596,0.0 -16.324323999999997,16.027218000000005,0.0 -16.321933000000005,16.027489999999997,0.0 -16.317986,16.033944,0.0 -16.311386,16.041185000000002,0.0 -16.310329,16.04222,0.0 -16.310355,16.046335,0.0 -16.310918000000004,16.05096,0.0 -16.307736,16.052523,0.0 -16.311228999999997,16.057902,0.0 -16.317097000000004,16.060438,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENHUILE<br>ha: 1540<br>Cultures: <br>id_champs: SENHUILE_5]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENHUILE</value>
+				</Data>
+				<Data name='ha'>
+					<value>1540</value>
+				</Data>
+				<Data name='Cultures'>
+					<value></value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENHUILE_5</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.246025000000003,16.136216,0.0 -16.278018000000003,16.104909,0.0 -16.298867999999995,16.079323,0.0 -16.310726,16.062277,0.0 -16.304028,16.05486,0.0 -16.264677,16.098559000000005,0.0 -16.250151,16.115361,0.0 -16.247484000000004,16.114348000000003,0.0 -16.245396,16.120789,0.0 -16.241939,16.121066999999996,0.0 -16.232424,16.131151999999997,0.0 -16.246025000000003,16.136216,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: SENFRUIT<br>ha: 69<br>Cultures: Maraichage<br>id_champs: SENFRUIT]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>SENFRUIT</value>
+				</Data>
+				<Data name='ha'>
+					<value>69</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>SENFRUIT</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-16.903577,14.840763,0.0 -16.903208,14.841,0.0 -16.902388,14.842025000000001,0.0 -16.901359,14.841609,0.0 -16.900728,14.841721000000001,0.0 -16.899789,14.841644000000002,0.0 -16.898237,14.841274000000002,0.0 -16.897658,14.842468,0.0 -16.897924,14.842911000000003,0.0 -16.897884,14.843356999999997,0.0 -16.89769,14.843635000000003,0.0 -16.897437,14.844676,0.0 -16.897203000000005,14.845294,0.0 -16.897008999999997,14.845593,0.0 -16.896734999999996,14.846677000000001,0.0 -16.896549000000004,14.847845999999999,0.0 -16.897446999999996,14.848326000000002,0.0 -16.898540999999998,14.848699,0.0 -16.899331,14.849202000000002,0.0 -16.899713,14.847989000000002,0.0 -16.901507,14.848484000000003,0.0 -16.901612,14.84808,0.0 -16.902271000000002,14.848562,0.0 -16.903442,14.847809999999997,0.0 -16.903962,14.847296000000004,0.0 -16.904935000000002,14.846376000000001,0.0 -16.905477999999995,14.846095,0.0 -16.905889,14.845624999999997,0.0 -16.905906,14.845073000000001,0.0 -16.906096,14.844414,0.0 -16.906724000000004,14.843857000000002,0.0 -16.907047,14.843366000000001,0.0 -16.907343999999995,14.842450999999999,0.0 -16.903577,14.840763,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: VAN OERS<br>ha: 406<br>Cultures: Maraichage<br>id_champs: VAN OERS]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>VAN OERS</value>
+				</Data>
+				<Data name='ha'>
+					<value>406</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Maraichage</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>VAN OERS</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-17.031617,14.656131000000002,0.0 -17.031486000000005,14.652923000000001,0.0 -17.031573,14.651780999999998,0.0 -17.032013,14.65055,0.0 -17.032277,14.649232000000003,0.0 -17.032848,14.646903000000002,0.0 -17.033595,14.644969,0.0 -17.031485999999997,14.642155999999996,0.0 -17.030826,14.641453,0.0 -17.029728,14.640662000000003,0.0 -17.029596000000005,14.639739,0.0 -17.028936999999996,14.638904,0.0 -17.028057999999998,14.636751000000002,0.0 -17.027135000000005,14.635433000000003,0.0 -17.027926,14.631609000000001,0.0 -17.027135000000005,14.630994000000001,0.0 -17.026432,14.631038,0.0 -17.024894,14.631038,0.0 -17.02419,14.631169999999997,0.0 -17.023619,14.631169999999997,0.0 -17.02274,14.631169999999997,0.0 -17.019576,14.631214,0.0 -17.017862000000004,14.631214,0.0 -17.016939000000004,14.631258000000003,0.0 -17.016412,14.631302000000002,0.0 -17.015621,14.631258000000003,0.0 -17.014171000000005,14.631345,0.0 -17.013336000000002,14.631345,0.0 -17.012808,14.631169999999997,0.0 -17.012237,14.631038,0.0 -17.01105,14.631653,0.0 -17.011181999999998,14.63262,0.0 -17.011226,14.634598,0.0 -17.011269999999996,14.635564,0.0 -17.011314000000002,14.637015,0.0 -17.011446,14.637717999999996,0.0 -17.011402,14.638685000000002,0.0 -17.011578,14.640706000000002,0.0 -17.011534,14.641146000000004,0.0 -17.011578,14.641936999999995,0.0 -17.011709999999997,14.645759999999997,0.0 -17.021729000000004,14.646418999999998,0.0 -17.025157,14.646771000000001,0.0 -17.025245,14.647253999999998,0.0 -17.025333,14.648835999999998,0.0 -17.025377,14.649626999999995,0.0 -17.025509000000003,14.650638000000006,0.0 -17.025509,14.651429,0.0 -17.025641,14.652835,0.0 -17.025729,14.653626000000001,0.0 -17.025815999999995,14.654549,0.0 -17.025904,14.655823999999999,0.0 -17.025992,14.657142,0.0 -17.02753,14.656922,0.0 -17.029684,14.656439,0.0 -17.031617,14.656131000000002,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description><![CDATA[description: <br>entreprise: CSS<br>ha: 2668<br>Cultures: Canne<br>id_champs: CSS_7]]></description>
+			<styleUrl>#poly-FF0000-1-255</styleUrl>
+			<ExtendedData>
+				<Data name='description'>
+					<value></value>
+				</Data>
+				<Data name='entreprise'>
+					<value>CSS</value>
+				</Data>
+				<Data name='ha'>
+					<value>2668</value>
+				</Data>
+				<Data name='Cultures'>
+					<value>Canne</value>
+				</Data>
+				<Data name='id_champs'>
+					<value>CSS_7</value>
+				</Data>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-15.574827,16.485874,0.0 -15.570706000000001,16.487525,0.0 -15.56339,16.488027,0.0 -15.563134000000003,16.492588,0.0 -15.565550000000002,16.500969,0.0 -15.564740999999998,16.503842000000002,0.0 -15.564299,16.506113,0.0 -15.564978,16.507406000000003,0.0 -15.573282000000003,16.509431,0.0 -15.580567,16.512133,0.0 -15.585815000000002,16.516411000000005,0.0 -15.594207000000004,16.516376,0.0 -15.602859999999998,16.514951,0.0 -15.614487,16.507756,0.0 -15.621310000000001,16.502413,0.0 -15.621832999999997,16.493248,0.0 -15.625984000000003,16.49005,0.0 -15.637193999999996,16.483447,0.0 -15.656185,16.477760000000004,0.0 -15.664093000000003,16.476445999999996,0.0 -15.674019,16.471661,0.0 -15.673623,16.468515,0.0 -15.671913,16.466298,0.0 -15.668891999999998,16.464526,0.0 -15.660867999999999,16.463577,0.0 -15.655718000000002,16.464313000000004,0.0 -15.647763,16.468415,0.0 -15.640823000000001,16.472119,0.0 -15.640557999999999,16.473474,0.0 -15.633844,16.476908,0.0 -15.630495,16.477692,0.0 -15.629893000000004,16.477749,0.0 -15.630474999999999,16.474938,0.0 -15.624351999999996,16.476119,0.0 -15.617932999999999,16.477407,0.0 -15.612836000000001,16.480688,0.0 -15.608604000000003,16.479029,0.0 -15.608008000000002,16.480585,0.0 -15.606474999999998,16.480997,0.0 -15.604709,16.481512,0.0 -15.604351,16.482864,0.0 -15.599691,16.48248,0.0 -15.594443000000002,16.481071,0.0 -15.588847,16.481794,0.0 -15.574827,16.485874,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-FF0000-1-255-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FF0000-1-255-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF0000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FF0000-1-255'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF0000-1-255-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF0000-1-255-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
